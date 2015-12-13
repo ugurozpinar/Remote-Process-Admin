@@ -1,0 +1,15 @@
+D:\BilDestekAdmin\BilDestekAdmin\BilDestekAdmin\obj\Debug\BilDestekAdmin.Properties.Resources.resources
+D:\BilDestekAdmin\BilDestekAdmin\BilDestekAdmin\obj\Debug\BilDestekAdmin.csproj.GenerateResource.Cache
+D:\BilDestekAdmin\BilDestekAdmin\BilDestekAdmin\obj\Debug\BilDestekAdmin.Form2.resources
+D:\BilDestekAdmin\BilDestekAdmin\BilDestekAdmin\bin\Debug\BilDestekAdmin.exe
+D:\BilDestekAdmin\BilDestekAdmin\BilDestekAdmin\bin\Debug\BilDestekAdmin.pdb
+D:\BilDestekAdmin\BilDestekAdmin\BilDestekAdmin\obj\Debug\BilDestekAdmin.exe
+D:\BilDestekAdmin\BilDestekAdmin\BilDestekAdmin\obj\Debug\BilDestekAdmin.pdb
+D:\Projects\Remote Process Admin\BilDestekAdmin\obj\Debug\BilDestekAdmin.exe
+D:\Projects\Remote Process Admin\BilDestekAdmin\obj\Debug\BilDestekAdmin.pdb
+D:\Projects\Remote Process Admin\BilDestekAdmin\bin\Debug\BilDestekAdmin.exe
+D:\Projects\Remote Process Admin\BilDestekAdmin\bin\Debug\BilDestekAdmin.pdb
+D:\Projects\Remote Process Admin\BilDestekAdmin\obj\Debug\BilDestekAdmin.csprojResolveAssemblyReference.cache
+D:\Projects\Remote Process Admin\BilDestekAdmin\obj\Debug\BilDestekAdmin.Form2.resources
+D:\Projects\Remote Process Admin\BilDestekAdmin\obj\Debug\BilDestekAdmin.Properties.Resources.resources
+D:\Projects\Remote Process Admin\BilDestekAdmin\obj\Debug\BilDestekAdmin.csproj.GenerateResource.Cache
